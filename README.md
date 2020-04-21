@@ -1,4 +1,4 @@
-![](https://www.pinclipart.com/picdir/big/38-389244_41-28-january-2017-matlab-logo-transparent-clipart.png)
+![](https://img.favpng.com/4/25/16/logo-karlovac-brand-graphic-design-font-png-favpng-Q6xTQcnjX1MQc1CtPBwiYHB4S.jpg)
 
 # Matlab-GUI-Interface
 Interfacing Matlab GUI with ROS and CARLA
