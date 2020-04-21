@@ -1,4 +1,4 @@
-![](https://it.wisc.edu/wp-content/uploads/DoIT-C-ITWiscEdu-MATLAB-675x300-News-Images.png)
+![](https://www.pinclipart.com/picdir/big/38-389244_41-28-january-2017-matlab-logo-transparent-clipart.png)
 
 # Matlab-GUI-Interface
 Interfacing Matlab GUI with ROS and CARLA
