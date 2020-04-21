@@ -1,4 +1,4 @@
-![](GUI.png)
+![](https://it.wisc.edu/wp-content/uploads/DoIT-C-ITWiscEdu-MATLAB-675x300-News-Images.png)
 
 # Matlab-GUI-Interface
 Interfacing Matlab GUI with ROS and CARLA
