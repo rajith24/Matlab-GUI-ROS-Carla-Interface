@@ -9,7 +9,7 @@ Interfacing Matlab GUI with ROS and CARLA
 >   * Due to Confidentiality reasons I did not upload any code till now.
 >   * But to get an outlook of my project go to demo section below.
 
-## Tools Used in this project :
+## Tools Used :
 
 >   * Python
 >   * ROS (Robot Operating System)
