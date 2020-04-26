@@ -15,6 +15,7 @@
 
 >   * Due to Confidentiality reasons I did not upload any code till now.
 >   * But to get an outlook of my project go to demo section below.
+>   * For any doubts and clarification contact [me](https://www.linkedin.com/in/rajith-rahul-kumar-a55398120/).
 
 ## Tools Used :
 
