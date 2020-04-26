@@ -4,7 +4,14 @@
 
 ## Aim :
 
-Interfacing Matlab GUI with ROS and CARLA
+> * Interfacing Matlab GUI with ROS and CARLA
+> * To facilitate a better understanding of ROS.
+> * Enhanced ease of access to ROS and its functions.
+> * Visualizing realtime feedback from all available sensor datas.
+> * Live trajectory mapping
+> * Realtime Vehicle control and environment mapping.
+
+## Disclaimer :
 
 >   * Due to Confidentiality reasons I did not upload any code till now.
 >   * But to get an outlook of my project go to demo section below.
