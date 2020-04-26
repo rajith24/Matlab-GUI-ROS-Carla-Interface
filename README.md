@@ -1,4 +1,4 @@
-![](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/131868183/original/127f7971da542f848161cdbdf7046e1c2c6b7223/do-matlab-assignment-projects-and-script.jpg)
+![](https://i1.pngguru.com/preview/362/209/312/numix-circle-for-windows-matlab-icon-png-icon.jpg)
 
 # Matlab-GUI-Interface
 Interfacing Matlab GUI with ROS and CARLA
