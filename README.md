@@ -11,6 +11,13 @@
 > * Live trajectory mapping
 > * Realtime Vehicle control and environment mapping.
 
+## Framework :
+
+>   * The overview of the project framework is shown here.
+![](https://drive.google.com/file/d/1JUVP3XWI9n7IyPIkHsQ8Hgdn_HrLTe1_/view?usp=sharing)
+>   * But to get an outlook of my project go to demo section below.
+>   * For any doubts and clarification contact [me](https://www.linkedin.com/in/rajith-rahul-kumar-a55398120/).
+
 ## Disclaimer :
 
 >   * Due to Confidentiality reasons I did not upload any code till now.
