@@ -13,10 +13,8 @@
 
 ## Framework :
 
->   * The overview of the project framework is shown here.
-![](https://drive.google.com/file/d/1JUVP3XWI9n7IyPIkHsQ8Hgdn_HrLTe1_/view?usp=sharing)
->   * But to get an outlook of my project go to demo section below.
->   * For any doubts and clarification contact [me](https://www.linkedin.com/in/rajith-rahul-kumar-a55398120/).
+>   * The overview of the project [Framework](https://drive.google.com/file/d/1JUVP3XWI9n7IyPIkHsQ8Hgdn_HrLTe1_/view?usp=sharing) is shown here.
+>   * The [Flow Chart](https://drive.google.com/file/d/1n_C2lOH1XVjRWy7A-ZlCXDy9TQTQV9ZZ/view?usp=sharing) to achieve final goal is shown here.
 
 ## Disclaimer :
 
