@@ -13,10 +13,9 @@
 > * Realtime Vehicle control and environment mapping.
 
 ## Framework :
-![image](https://drive.google.com/uc?export=view&id=11C4PXWyjNKXVcWjWNe9vrh648_U8RW0r)
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=11C4PXWyjNKXVcWjWNe9vrh648_U8RW0r" alt="Sublime's custom image"/>
+  <img src="https://drive.google.com/uc?export=view&id=11C4PXWyjNKXVcWjWNe9vrh648_U8RW0r" alt="Framework"/>
 </p>
 
 
