@@ -15,6 +15,11 @@
 ## Framework :
 ![image](https://drive.google.com/uc?export=view&id=11C4PXWyjNKXVcWjWNe9vrh648_U8RW0r)
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=11C4PXWyjNKXVcWjWNe9vrh648_U8RW0r" alt="Sublime's custom image"/>
+</p>
+
+
 >   * The overview of the project [Framework](https://drive.google.com/file/d/11C4PXWyjNKXVcWjWNe9vrh648_U8RW0r/view?usp=sharing) is shown here.
 >   * The [Flow Chart](https://drive.google.com/file/d/1n_C2lOH1XVjRWy7A-ZlCXDy9TQTQV9ZZ/view?usp=sharing) to achieve final goal is shown here.
 
