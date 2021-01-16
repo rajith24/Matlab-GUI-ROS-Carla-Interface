@@ -13,8 +13,9 @@
 > * Realtime Vehicle control and environment mapping.
 
 ## Framework :
+![image](https://drive.google.com/uc?export=view&id=11C4PXWyjNKXVcWjWNe9vrh648_U8RW0r)
 
->   * The overview of the project [Framework](https://drive.google.com/file/d/1JUVP3XWI9n7IyPIkHsQ8Hgdn_HrLTe1_/view?usp=sharing) is shown here.
+>   * The overview of the project [Framework](https://drive.google.com/file/d/11C4PXWyjNKXVcWjWNe9vrh648_U8RW0r/view?usp=sharing) is shown here.
 >   * The [Flow Chart](https://drive.google.com/file/d/1n_C2lOH1XVjRWy7A-ZlCXDy9TQTQV9ZZ/view?usp=sharing) to achieve final goal is shown here.
 
 ## Disclaimer :
