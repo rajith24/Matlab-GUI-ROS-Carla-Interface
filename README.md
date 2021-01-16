@@ -43,7 +43,3 @@
  
 >   * [Integrated GUI Application](https://drive.google.com/file/d/139vJ0JoQv0nOsuwXV9Fn4ETY1OuQP551/view?usp=sharing)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/139vJ0JoQv0nOsuwXV9Fn4ETY1OuQP551/view?usp=sharing)
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
